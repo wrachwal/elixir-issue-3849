@@ -1,0 +1,2 @@
+%{"asn1ex": {:git, "https://github.com/vicentfg/asn1ex.git", "9165071e6f1f444a2bd94ca8d02c9789c0d772f4", []},
+  "gproc": {:hex, :gproc, "0.3.1"}}
